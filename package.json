@@ -1,0 +1,13 @@
+{
+    "name": "@kasiak/ch100561",
+  "version": "1.0.0",
+  "description": "zaliczenie WSB",
+  "repository": "aksieb/100561",
+  "main": "index.js",
+  "keywords": [
+    "WSB",
+    "npm",
+    "package",
+    "exam"
+      ]
+    }
